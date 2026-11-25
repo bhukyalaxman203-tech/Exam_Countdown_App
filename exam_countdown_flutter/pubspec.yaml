@@ -1,0 +1,13 @@
+name: exam_countdown
+description: Exam Countdown - exam planner, timer and progress tracker.
+publish_to: none
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.0
+  crypto: ^3.0.3
+flutter:
+  uses-material-design: true
